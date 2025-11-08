@@ -9,7 +9,7 @@ Simulasi jaringan menggunakan Cisco Packet Tracer dengan konfigurasi VLAN dan In
 - `UTS Jaringan Komputer Lanjut_Carlos Fernando_20220801035.pdf` → Laporan UTS  
 - `UTS Jaringan Komputer Lanjut_Carlos Fernando.pkt` → File Cisco Packet Tracer  
 
-### 📖 Deskripsi
+###  Deskripsi
 Topologi terdiri dari 5 VLAN:
 | VLAN | Nama | IP Gateway | Perangkat |
 |------|------|-------------|------------|
